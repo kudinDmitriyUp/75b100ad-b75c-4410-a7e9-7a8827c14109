@@ -76,7 +76,7 @@ export default function Home() {
               id: "01",
               title: "Water Polo Excellence",
               description: "Leading scorer for Torrey Pines High School varsity water polo team with outstanding performance in regional championships",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763224861183-5gftd56n.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225129926-97k4axe4.jpg",
               imageAlt: "Water polo championship achievement"
             },
             {
