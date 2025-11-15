@@ -45,7 +45,7 @@ export default function Home() {
           description="Student-Athlete at Torrey Pines High School. Dedicated to excellence in academics and water polo with a passion for leadership and community impact."
           tag="Portfolio"
           tagIcon={User}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763224858449-zgwqvk0c.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225101669-ndqo0zes.jpg"
           imageAlt="Valerio Noya water polo athlete"
           frameStyle="card"
           buttons={[
