@@ -90,7 +90,7 @@ export default function Home() {
               id: "03",
               title: "Team Leadership",
               description: "Captain of varsity water polo team, mentoring younger players and fostering team unity and sportsmanship",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763224862583-ne1r4a8f.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225196494-kvrf7g5j.jpg",
               imageAlt: "Team leadership award"
             }
           ]}
